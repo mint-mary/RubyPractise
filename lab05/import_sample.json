@@ -1,0 +1,16 @@
+[
+  {
+    "id": 10,
+    "date": "2026-11-15",
+    "amount_in_kopecks": 45000,
+    "category": "study",
+    "description": "Курс на платформі"
+  },
+  {
+    "id": 2,
+    "date": "2026-11-16",
+    "amount_in_kopecks": 8900,
+    "category": "other",
+    "description": "Батарейки"
+  }
+]
